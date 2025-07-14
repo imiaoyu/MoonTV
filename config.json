@@ -19,6 +19,10 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+    "huaqi": {
+      "api": "https://www.seacms.org/api.php/provide/vod/",
+      "name": "花旗"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
@@ -36,11 +40,11 @@
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源"
     },
-      "wolong": {
+      "niuniu": {
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "name": "牛牛"
     },
-      "wolong": {
+      "fengchao": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢"
     },
