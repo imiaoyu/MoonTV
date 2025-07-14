@@ -28,10 +28,6 @@
       "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
-    },
     "iqiyi": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
@@ -39,6 +35,14 @@
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源"
+    },
+      "wolong": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛"
+    },
+      "wolong": {
+      "api": "https://api.fczy888.me/api.php/provide/vod",
+      "name": "蜂巢"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
